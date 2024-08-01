@@ -6,6 +6,4 @@ CatSnap also offers an extensive gallery of cat photos from around the world. Us
 
 In addition to its social features, CatSnap lets users create detailed profiles for their cats. These profiles can include the cat's name, age, and fun facts, along with a photo diary to document their growth and memorable moments. This feature makes it easy for users to keep track of their cat's milestones and share their stories with the community.
 
-Privacy and safety are top priorities for CatSnap. The app includes advanced privacy settings that allow users to control who can view and comment on their photos. Users can also report and block inappropriate content, ensuring a friendly and respectful community environment.
-
-Overall, CatSnap is more than just a photo app; it's a comprehensive platform for cat lovers to connect, share, and celebrate their feline friends. With its rich features and engaging community, CatSnap brings joy to cat enthusiasts and helps them capture the precious moments of their furry companions. Download CatSnap today and join the purr-fect community of cat lovers!
+Overall, CatSnap is more than just a photo app; it's a comprehensive platform for cat lovers to connect, share, and celebrate their feline friends. With its rich features and engaging community, CatSnap brings joy to cat enthusiasts and helps them capture the precious moments of their furry companions.
